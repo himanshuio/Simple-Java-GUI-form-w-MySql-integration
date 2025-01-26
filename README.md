@@ -1,4 +1,4 @@
-# Simple Java Swing Form with MySQL Database Integration
+# Simple Java Swing Form with MySQL Database Integration 
 
 This project demonstrates a simple Java Swing form for capturing user data, such as first name, last name, book number, registration number, and college name. It also includes MySQL integration to store the captured data in a database.
 
